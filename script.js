@@ -39,10 +39,6 @@ display();
 
 
 // ADD POSTS
-async function addPost(title, content) {
-
-}
-
 const addPostButton = document.querySelector(".submit");
 const titleInput = document.querySelector("#title");
 const contentInput = document.querySelector("#content");
